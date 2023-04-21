@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Код JavaScript в HTML-документе</title>
-</head>
-<body>
-
 <script>
 const inputElement = document.querySelector('input[placeholder="Введите номер"]');
 const valueToType = "Р111ОО777";
@@ -63,7 +55,3 @@ setTimeout(() => { // добавляем задержку
 
 
 </script>
-
-
-</body>
-</html>
